@@ -7,3 +7,9 @@
 > npm install
 > npm run start
 ```
+
+## Styled Components
+
+```
+> npm i --save styled-components
+```
